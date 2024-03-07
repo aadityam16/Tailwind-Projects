@@ -1,8 +1,8 @@
 import React from "react";
-import IconFacebook from "../../../public/images/icon-facebook.svg";
-import IconInstagram from "../../../public/images/icon-instagram.svg";
-import IconTwitter from "../../../public/images/icon-twitter.svg";
-import Logo from "../../../public/images/logo.svg";
+import IconFacebook from "../../../public/clipboard-website-images/icon-facebook.svg";
+import IconInstagram from "../../../public/clipboard-website-images/icon-instagram.svg";
+import IconTwitter from "../../../public/clipboard-website-images/icon-twitter.svg";
+import Logo from "../../../public/clipboard-website-images/logo.svg";
 import Image from "next/image";
 import Link from "next/link";
 function Footer() {

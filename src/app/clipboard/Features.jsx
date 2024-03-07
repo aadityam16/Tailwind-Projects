@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import ComputerImage from "../../../public/images/image-computer.png";
+import ComputerImage from "../../../public/clipboard-website-images/image-computer.png";
 function Features() {
   return (
     <section id="features">

@@ -27,6 +27,11 @@ module.exports = {
       },
       fontFamily: {
         baijamjuree: ["Bai Jamjuree", "sans-serif"],
+        josefin: ["Josefin Sans", "sans-serif"],
+        alata: ["Alata"],
+      },
+      letterSpacing: {
+        widest: "0.3em",
       },
     },
   },

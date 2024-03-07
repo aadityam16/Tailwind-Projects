@@ -1,7 +1,7 @@
 import React from "react";
-import IconBlacklist from "../../../public/images/icon-blacklist.svg";
-import IconPreview from "../../../public/images/icon-preview.svg";
-import IconText from "../../../public/images/icon-text.svg";
+import IconBlacklist from "../../../public/clipboard-website-images/icon-blacklist.svg";
+import IconPreview from "../../../public/clipboard-website-images/icon-preview.svg";
+import IconText from "../../../public/clipboard-website-images/icon-text.svg";
 import Image from "next/image";
 function Supercharge() {
   return (

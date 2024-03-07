@@ -10,7 +10,7 @@ import Footer from "./Footer";
 
 function ClipBoard() {
   return (
-    <main className="font-baijamjuree bg-[url('/images/bg-header-mobile.png')] mob:bg-[url('/images/bg-header-desktop.png')] bg-no-repeat bg-contain">
+    <main className="font-baijamjuree bg-[url('/clipboard-website-images/bg-header-mobile.png')] mob:bg-[url('/clipboard-website-images/bg-header-desktop.png')] bg-no-repeat bg-contain">
       <Hero />
       <Snippets />
       <Features />

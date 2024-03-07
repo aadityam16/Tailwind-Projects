@@ -1,5 +1,5 @@
 import React from "react";
-import ImageDevices from "../../../public/images/image-devices.png";
+import ImageDevices from "../../../public/clipboard-website-images/image-devices.png";
 import Image from "next/image";
 function Access() {
   return (

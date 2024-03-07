@@ -31,6 +31,12 @@ export default function Home() {
         >
           Clipboard Website
         </Link>
+        <Link
+          href="/loop-studios"
+          className="bg-cyan-400 px-3 py-1 rounded-lg hover:-translate-y-0.5 transition-all duration-150 hover:bg-cyan-300"
+        >
+          Loop-Studios Website
+        </Link>
       </div>
     </div>
   );

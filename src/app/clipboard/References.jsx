@@ -1,9 +1,9 @@
 import React from "react";
-import LogoGoogle from "../../../public/images/logo-google.png";
-import LogoMicrosoft from "../../../public/images/logo-microsoft.png";
-import LogoIbm from "../../../public/images/logo-ibm.png";
-import LogoHp from "../../../public/images/logo-hp.png";
-import LogoVectorGraphics from "../../../public/images/logo-vector-graphics.png";
+import LogoGoogle from "../../../public/clipboard-website-images/logo-google.png";
+import LogoMicrosoft from "../../../public/clipboard-website-images/logo-microsoft.png";
+import LogoIbm from "../../../public/clipboard-website-images/logo-ibm.png";
+import LogoHp from "../../../public/clipboard-website-images/logo-hp.png";
+import LogoVectorGraphics from "../../../public/clipboard-website-images/logo-vector-graphics.png";
 import Image from "next/image";
 function References() {
   return (
